@@ -1,3 +1,5 @@
+<img src="./profile-header.svg" alt="Signals into useful things — radio, embedded systems and small tools" width="100%" />
+
 # Hi, I'm Sviatoslav
 
 I study electronics at Lviv Polytechnic (Department of Electronic Engineering, Ukraine).
@@ -12,6 +14,13 @@ low latency, one-time packets, forward secrecy and voice input with a throat mic
 
 The first finished piece of it is [lora-calc](https://github.com/Spleps/lora-calc),
 a calculator for LoRa airtime, sensitivity and range.
+
+## Currently learning / exploring
+
+- LoRa mesh networking and custom RF hardware
+- Embedded security and forward secrecy
+- Low-power PCB design
+- Reliable short-message systems for disconnected environments
 
 ## Projects
 
